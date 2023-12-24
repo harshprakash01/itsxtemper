@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://harshprakash.com](https://harshprakash.com)
 
-- 📝 I regularly write articles on [http://blogs.harshprakash.com](https://blogs.harshprakash.com)
+- 📝 I regularly write articles on [http://blogs.harshprakash.com](http://blogs.harshprakash.com)
 
 - 📫 How to reach me **harshprakash06@outlook.com**
 
-- 📄 Know about my experiences [https://harshprakash.com/resume](https://harshprakash.com/resume)
+- 📄 Know about my experiences [https://harshprakash.com/resume](https://harshprakash.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
