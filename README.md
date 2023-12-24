@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harshprakash.com](https://harshprakash.com)
 
-- 📝 I regularly write articles on [https://blogs.harshprakash.com](https://blogs.harshprakash.com)
+- 📝 I regularly write articles on [http://blogs.harshprakash.com](https://blogs.harshprakash.com)
 
 - 📫 How to reach me **harshprakash06@outlook.com**
 
